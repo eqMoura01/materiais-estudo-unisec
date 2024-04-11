@@ -5,6 +5,6 @@
 - SmartHome
 - FFMPEG
 - Git*
-- MarkDown (.md)
-- Docker (pref sem volumes)
-- Ansible (Automatizador de rotinas)
+- MarkDown (.md) *
+- Docker (pref sem volumes) *
+- Ansible (Automatizador de rotinas) *
