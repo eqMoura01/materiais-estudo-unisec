@@ -6,5 +6,7 @@
 - FFMPEG
 - Git*
 - [MarkDown (.md) *](https://www.notion.so/MarkDown-2b711593df6d485e9a7dc0119d82c185)
-- Docker (pref sem volumes) *
+- [Docker (pref sem volumes) *] (https://www.notion.so/Docker-8568e3fb1c624c4d97ce60dc79e2b833)
 - Ansible (Automatizador de rotinas) *
+- Platformio
+- CI CD
