@@ -12,3 +12,4 @@
 - CI CD
 - [ConventionalCommits](https://www.conventionalcommits.org/pt-br/v1.0.0/#resumo)
 - [Deno-(TS/JS)](https://deno.com/)
+- MQTT (Sistema usado MQX)
